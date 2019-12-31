@@ -3,22 +3,22 @@
 This is largely WIP but here is the goal:
 
 * [base16](https://github.com/chriskempson/base16)
- + [base16-manager](https://github.com/base16-manager/base16-manager) (AUR)
- + base16-atelier-dune-dark
+    * [base16-manager](https://github.com/base16-manager/base16-manager) (AUR)
+    * base16-atelier-dune-dark
 * neovim
- + lightline
- + vim-plug?
+* lightline
+* vim-plug?
 * zsh
- + plugin manager?
- + enumerate plugins
+    * plugin manager?
+    * enumerate plugins
 * tmux
 * alacritty
 * sway
 * firefox
- + tree-style-tabs
- + userChrome.css
+    * tree-style-tabs
+    * userChrome.css
 * font
- + TODO
+    * TODO
 
 # Setup
 
@@ -35,6 +35,6 @@ dotfiles checkout
 If there are any conflicts, either stash or delete the file
 
 
-# Reference
-[source](https://www.anand-iyer.com/blog/2018/a-simpler-way-to-manage-your-dotfiles.html)
-[alternative](https://medium.com/toutsbrasil/how-to-manage-your-dotfiles-with-git-f7aeed8adf8b)
+# References
+[source](https://www.anand-iyer.com/blog/2018/a-simpler-way-to-manage-your-dotfiles.html) where I first saw this  
+[alternative](https://medium.com/toutsbrasil/how-to-manage-your-dotfiles-with-git-f7aeed8adf8b) looks to be the exact same thing, rephrased  
